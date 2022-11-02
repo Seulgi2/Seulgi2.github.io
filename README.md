@@ -1,2 +1,2 @@
-# seulgi.github.io
+# Seulgi2.github.io
 let's blog!
